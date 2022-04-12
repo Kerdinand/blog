@@ -21,11 +21,8 @@ export default function Home({ allPostsData }) {
 				<title>{siteTitle}</title>
 			</Head>
 			<section className={utilStyles.headingMd}>
-				<p>Hello there!</p>
-				<p>
-					This is the next.js tutorial for creating a blog. It will be
-					modified to fit my needs.
-				</p>
+				<p>Hello 👋</p>
+				<p>This is my personal blog.</p>
 			</section>
 			<section
 				className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}
